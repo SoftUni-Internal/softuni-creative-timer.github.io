@@ -1,0 +1,29 @@
+.main-wrapper {
+    height: 85vh;
+}
+
+.time-container {
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.time-container:hover {
+    cursor: pointer;
+}
+
+.time-container .time {
+    display: flex;
+    justify-content: center;
+    font-size: 9em;
+}
+
+.time-container .time:hover {
+    border-bottom: 0.15rem solid #3F4D5A;
+}
+
+.time .m:hover, .s:hover {
+    color: #FC4C50;
+}

@@ -1,1 +1,1 @@
-# softuni-creative-timer
+# SoftUni Digital Timer
