@@ -21,9 +21,9 @@
 }
 
 .time-container .time:hover {
-    border-bottom: 0.15rem solid #3F4D5A;
+    border-bottom: 0.15rem solid #54546D;
 }
 
 .time .m:hover, .s:hover {
-    color: #FC4C50;
+    color: #9A5DC6;
 }

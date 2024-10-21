@@ -1,8 +1,8 @@
 @import 'https://fonts.googleapis.com/css?family=Prompt:400,700';
 
 :root {
-    --main-blue: #3F4D5A;
-    --main-orange: #FC4C50;
+    --main-blue: #54546D;
+    --main-orange: #9A5DC6;
   }
 
 .modal {
@@ -48,7 +48,7 @@
 
 .modal .close-button {
   border: none;
-  background: #FC4C50;
+  background: #9A5DC6;
   color: white;
   padding: 0.3em 0.6em;
   margin: 0.3em;
@@ -59,7 +59,7 @@
 
 form.time-form button {
   border: none;
-  background: #FC4C50;
+  background: #9A5DC6;
   color: white;
   padding: 0.3em 3em;
   font-size: 1.3em;
