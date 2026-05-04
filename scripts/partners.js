@@ -4,6 +4,6 @@ export const partners = [
     { src: "./public/partners/createx.png", name: "CreateX" },
     { src: "./public/partners/draft-kings.png", name: "Draft Kings" },
     { src: "./public/partners/indeavr.png", name: "Indeavr" },
-    { src: "./public/partners/postbank.jpg", name: "Postbank" },
+    { src: "./public/partners/postbank.png", name: "Postbank" },
     { src: "./public/partners/superhosting.png", name: "SuperHosting" }
 ];
